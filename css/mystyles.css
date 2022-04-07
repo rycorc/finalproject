@@ -1,0 +1,13 @@
+/* This will be applied to the about and index pages */
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace{
+    padding-bottom: 40px;
+}
+
+li{
+    padding-bottom: 10px
+}
